@@ -25,7 +25,7 @@
     "resources": [
         {
             "type": "Microsoft.Authorization/roleEligibilityScheduleRequests",
-            "apiVersion": "2020-10-01-preview",
+            "apiVersion": "2022-04-01-preview",
             "name": "[parameters('id')]",
             "properties": {
                 "principalId": "[parameters('principalId')]",
